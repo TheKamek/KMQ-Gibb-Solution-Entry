@@ -12,4 +12,4 @@ Ignore these Tags they are just made so this is more easy findable:
 
 Schule Bern Gibb Lorraine ICT ICT-Campus IET Berufsmaturität BM Schlechte-Schule Modul Lösung Lösungen Test Prüfungen Smartlearn Portal Evento Note ABU English Englisch Deutsch Schweiz Suiss Math Mathematik Sport Unterricht Ausbildung Lehr Lernender Lernende Lernen Cheat Vorteil Austricksen Legal Erlaubt Regelkomform 
 
-Commit-To-Pushup: 1
+Commit-To-Pushup: 2
